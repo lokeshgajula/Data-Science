@@ -3,4 +3,4 @@
 This particular repository contains all the AI/ML models that i had worked on , developed.
 
 1. Bank Loan Acceptance Prediction using Artificial Neural Nets ( uses Tensorflow's keras api)
-2. Word Cloud Creationg using Tfidf
+2. Word Cloud Creation using Tfidf
