@@ -7,3 +7,4 @@ This particular repository contains all the AI/ML models that i had worked on , 
 3. Creating a randomwalk using matplotlib (around 50000 points plotted to create a random path)
 4. Rolling Dice with Plotly ( we plot an interactive visualization for the frequencies of a die after 1000 rolls)
 5. Daily high and low temperatures for hyderabad -2021 (plot using matplotlib)
+6. Plotting earthquakes magnitude on a world map using plotly.
