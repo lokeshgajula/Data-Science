@@ -6,3 +6,4 @@ This particular repository contains all the AI/ML models that i had worked on , 
 2. Word Cloud Creation using Tfidf
 3. Creating a randomwalk using matplotlib (around 50000 points plotted to create a random path)
 4. Rolling Dice with Plotly ( we plot an interactive visualization for the frequencies of a die after 1000 rolls)
+5. Daily high and low temperatures for hyderabad -2021 (plot using matplotlib)
