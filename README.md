@@ -8,3 +8,4 @@ This particular repository contains all the AI/ML models , data analysis, data v
 4. Rolling Dice with Plotly ( we plot an interactive visualization for the frequencies of a die after 1000 rolls)
 5. Daily high and low temperatures for hyderabad -2021 (plot using matplotlib)
 6. Plotting earthquakes magnitude on a world map using plotly.
+7. Most-Starred Python Projects on GitHub ( using github-API and plotly for plotting)
