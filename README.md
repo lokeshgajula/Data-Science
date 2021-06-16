@@ -10,3 +10,4 @@ This particular repository contains all the AI/ML models , data analysis, data v
 6. Plotting earthquakes magnitude on a world map using plotly.
 7. Most-Starred Python Projects on GitHub ( using github-API and plotly for plotting)
 8. Topstories from hacker-new using API .
+9. Taxi-Fare prediction using Deep Neural Networks( Uses Tensorflow's Keras api)
