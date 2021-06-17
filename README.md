@@ -11,3 +11,4 @@ This particular repository contains all the AI/ML models , data analysis, data v
 7. Most-Starred Python Projects on GitHub ( using github-API and plotly for plotting)
 8. Topstories from hacker-new using API .
 9. Taxi-Fare prediction using Deep Neural Networks( Uses Tensorflow's Keras api)
+10. Image Classification - on MNIST Dataset(28x28 pixel images of digits) usig keras sequential api
