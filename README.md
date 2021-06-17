@@ -14,3 +14,4 @@ This particular repository contains all the AI/ML models , data analysis, data v
 10. Image Classification - on MNIST Dataset(28x28 pixel images of digits) usig keras sequential api
 11. IRIS Dataset - classification using Keras API
 12. Class Weighting and Oversampling to improve logistic regression model performance using fake transactions dataset.
+13. Deep-Wide Neural Networks for Taxi-Fare Prediction using Keras Functional API.
