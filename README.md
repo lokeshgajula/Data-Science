@@ -15,3 +15,4 @@ This particular repository contains all the AI/ML models , data analysis, data v
 11. IRIS Dataset - classification using Keras API
 12. Class Weighting and Oversampling to improve logistic regression model performance using fake transactions dataset.
 13. Deep-Wide Neural Networks for Taxi-Fare Prediction using Keras Functional API.
+14. Fine tuning pretrained embeddings for classification of NLP tasts.
