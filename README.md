@@ -18,3 +18,4 @@ This particular repository contains all the AI/ML models , data analysis, data v
 14. Fine tuning pretrained embeddings for classification of NLP tasts.
 15. Deploying Object Detection Deeplearning model and test it live using FastAPI. 
 16. Image Classification using CNN and Data Augmentation
+17. NLP Pipeline for Text Classification with custom features
