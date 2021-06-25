@@ -20,3 +20,4 @@ This particular repository contains all the AI/ML models , data analysis, data v
 16. Image Classification using CNN and Data Augmentation
 17. NLP Pipeline for Text Classification with custom features
 18. Clean Labeling of dataset and its importance
+19. Twitter Sentiment Analysis using sklearn
