@@ -21,3 +21,5 @@ This particular repository contains all the AI/ML models , data analysis, data v
 17. NLP Pipeline for Text Classification with custom features
 18. Clean Labeling of dataset and its importance
 19. Twitter Sentiment Analysis using sklearn
+20. Simple Understanding of Tensorflow Transform
+21. Data Lifecycle using TFX
