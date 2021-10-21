@@ -24,3 +24,4 @@ This particular repository contains all the AI/ML models , data analysis, data v
 20. Simple Understanding of Tensorflow Transform
 21. Data Lifecycle using TFX
 22. Creating Candlestick graphs for crypto using CoinGeckoAPI
+23. Tesla Stock Analysis using yfinance API
