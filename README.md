@@ -28,3 +28,6 @@ This particular repository contains all the AI/ML models , data analysis, data v
 24. IRIS Dataset Classification using sklearn(K-Nearest Neighbors)
 25. ALL ML MODELS IN SKLEARN
 26. Dash-in-depth 
+27. Plotly-in-depth
+28. Data-Visualization-Types
+29. 
