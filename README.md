@@ -27,3 +27,4 @@ This particular repository contains all the AI/ML models , data analysis, data v
 23. Tesla Stock Analysis using yfinance API
 24. IRIS Dataset Classification using sklearn(K-Nearest Neighbors)
 25. ALL ML MODELS IN SKLEARN
+26. Dash-in-depth 
