@@ -30,4 +30,4 @@ This particular repository contains all the AI/ML models , data analysis, data v
 26. Dash-in-depth 
 27. Plotly-in-depth
 28. Data-Visualization-Types
-29. 
+29. Sales Insights Data Analysis Project in Power BI
